@@ -9,15 +9,17 @@ To know more about Google Code Jam, visit this link: https://code.google.com/cod
 
 It is very simple to contribute your code in this repository.
 
-Fork this repository
+1. Fork this repository
 
-One has to create a directory of the year of the question. (If its not already there)
+2. One has to create a directory of the year of the competition in which the question was asked. (If its not already there)
 
-Now the contributor must create a subdirectory in the year directory with its name as the question name.
+3. Now the contributor must create a subdirectory of the Round of the competition.
 
-The subdirectory must have a separate file with question or link to question in it and another file with the source code.
+4. Finally create another subdirectory in the directory created in the previous step and directory should be named after the question.
 
-Now after adding code to the forked repository the contributor must create a pull request over my repository.
+5. In this directory create a text file and add the problem statement and the source code file in the same directory.
+
+6. Now after adding code to the forked repository the contributor must create a pull request  over my repository.
 
 
 # Note
@@ -26,6 +28,6 @@ There can be multiple source codes for the same question.
 
 The source code can be in any programming language.
 
-
+Please add detailed comments in the code so that its simpler to read and interpret the code for all the contributors.
 
 ## Feel free to suggest any edits
