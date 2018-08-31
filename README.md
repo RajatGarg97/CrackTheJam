@@ -1,11 +1,11 @@
-# GoogleCodeJam-Editorials
-This repository contains the solution codes of a really famous competitive programming competiton Google Code Jam, which as the name suggests is organised by Google Inc.
+# CrackTheJam
+The aim of this project is to gather all competitive programmers and learners under one roof and contribute solutions of a really famous competitive programming competiton Google Code Jam, which as the name suggests is organised by Google Inc.
 It is a really grand afair where coders from all over the world compete each year.
 
 To know more about Google Code Jam, visit this link: https://code.google.com/codejam/
 
 
-# Code of Conduct
+## Code of Conduct
 
 It is very simple to contribute your code in this repository.
 
@@ -22,12 +22,15 @@ It is very simple to contribute your code in this repository.
 6. Now after adding code to the forked repository the contributor must create a pull request  over my repository.
 
 
-# Note
+## Note
 
-There can be multiple source codes for the same question.
+1. There can be multiple source codes for the same question.
 
-The source code can be in any programming language.
+2. The source code can be in any programming language.
 
-Please add detailed comments in the code so that its simpler to read and interpret the code for all the contributors.
+3. Please add detailed comments in the code so that its simpler to read and interpret the code for all the contributors.
 
-## Feel free to suggest any edits
+4. Contributors can also contribute problem statements from the competitions.
+
+
+### Feel free to suggest any edits
